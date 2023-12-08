@@ -1,0 +1,33 @@
+.container {
+  padding: 0 50px;
+}
+.wrapper {
+  background-color: #ffffff;
+  width: 100%;
+  padding: 30px 25px;
+  border-radius: 0.5rem;
+}
+.unordered {
+  list-style: none;
+}
+
+.flex {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.ml {
+  margin-left: 120px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.mt {
+  margin-top: 40px;
+}
+
+.fixed {
+  width: 120px;
+  font-weight: 600;
+  text-transform: uppercase;
+}

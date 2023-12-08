@@ -1,0 +1,24 @@
+.headerRow {
+  background-color: #7f56d8;
+  transition: background-color 0.3s ease;
+  height: 80px;
+  vertical-align: bottom;
+}
+
+.tableRow {
+  transition: background-color 0.3s ease;
+}
+
+.tableRow:hover {
+  background-color: aliceblue;
+}
+
+/* .headerRow:hover {
+  background-color: #635f5f;
+} */
+
+.maxHeight {
+  max-height: 450px;
+  overflow-x: auto;
+  border-radius: 0.3rem;
+}
